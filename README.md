@@ -17,4 +17,4 @@ If I should ever develop a commercial fork based on this project, it will not in
 
 I am currently looking into the exact license appropriate for this project, and will post that soon. In the meantime, I ask anyone interested in forking or adding to the project to keep to the spirit of non-commercial use, as both a Hobbyist project and for personal use and education.  
 
-
+View a working copy of the HTML here, https://blackbirdx61.github.io/BBs-Classic-Slots//src/slots-c2.html
